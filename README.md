@@ -12,7 +12,7 @@ conda env create -f conda_env.yml
 ```
 conda activate torch_env
 ```
-3. Download Simulation for your OS from here and choose a version from Version 2, 2/07/17
+3. Download Simulation for your OS from [here](https://github.com/udacity/self-driving-car-sim) and choose a version from Version 2, 2/07/17
 4. Download this repository and on the directory run:
 ```
 python drive_new.py nvidia_working
